@@ -1,0 +1,5 @@
+c:\users\leolaz\documents\visual studio 2013\Projects\laba3\laba3\bin\Debug\laba3.exe.config
+c:\users\leolaz\documents\visual studio 2013\Projects\laba3\laba3\bin\Debug\laba3.exe
+c:\users\leolaz\documents\visual studio 2013\Projects\laba3\laba3\bin\Debug\laba3.pdb
+c:\users\leolaz\documents\visual studio 2013\Projects\laba3\laba3\obj\Debug\laba3.exe
+c:\users\leolaz\documents\visual studio 2013\Projects\laba3\laba3\obj\Debug\laba3.pdb
