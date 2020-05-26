@@ -1,0 +1,2 @@
+c:\users\leolaz\documents\visual studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe.config
+c:\users\leolaz\documents\visual studio 2013\Projects\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.csprojResolveAssemblyReference.cache
