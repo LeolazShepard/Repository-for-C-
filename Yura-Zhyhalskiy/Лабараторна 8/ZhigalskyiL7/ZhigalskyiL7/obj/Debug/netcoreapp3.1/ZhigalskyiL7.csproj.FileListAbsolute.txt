@@ -1,0 +1,15 @@
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\bin\Debug\netcoreapp3.1\ZhigalskyiL7.exe
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\bin\Debug\netcoreapp3.1\ZhigalskyiL7.deps.json
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\bin\Debug\netcoreapp3.1\ZhigalskyiL7.runtimeconfig.json
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\bin\Debug\netcoreapp3.1\ZhigalskyiL7.runtimeconfig.dev.json
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\bin\Debug\netcoreapp3.1\ZhigalskyiL7.dll
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\bin\Debug\netcoreapp3.1\ZhigalskyiL7.pdb
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\obj\Debug\netcoreapp3.1\ZhigalskyiL7.csprojAssemblyReference.cache
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\obj\Debug\netcoreapp3.1\ZhigalskyiL7.Form1.resources
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\obj\Debug\netcoreapp3.1\ZhigalskyiL7.csproj.GenerateResource.cache
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\obj\Debug\netcoreapp3.1\ZhigalskyiL7.AssemblyInfoInputs.cache
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\obj\Debug\netcoreapp3.1\ZhigalskyiL7.AssemblyInfo.cs
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\obj\Debug\netcoreapp3.1\ZhigalskyiL7.csproj.CoreCompileInputs.cache
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\obj\Debug\netcoreapp3.1\ZhigalskyiL7.dll
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\obj\Debug\netcoreapp3.1\ZhigalskyiL7.pdb
+C:\Users\Argiziont\source\repos\ZhigalskyiL7\ZhigalskyiL7\obj\Debug\netcoreapp3.1\ZhigalskyiL7.genruntimeconfig.cache
